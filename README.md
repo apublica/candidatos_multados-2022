@@ -1,4 +1,4 @@
-## Cruzamento: dados de multas ambientais aplicadas pelo IBAMA x Candidatos cadastrados em 2022
+## Repositório da reportagem *"Candidatos às eleições deste ano têm R$ 84 milhões em multas ambientais"*
 ### Exportando os dados
 * Os dados de [candidatos cadastrados em 2022](https://dadosabertos.tse.jus.br/dataset/candidatos-2022/resource/435145fd-bc9d-446a-ac9d-273f585a0bb9) foram baixados âs 10 horas do dia 16 de agosto de 2022. A última atualização do repositório do TSE foi às 6h.
 * Dados de multas do Ibama foram exportados do [portal de dados abertos](https://dadosabertos.ibama.gov.br/dataset/multas-ambientais-distribuidas-por-bens-tutelados) do órgão no dia 16 de agosto. A última atualização destes dados foi realizada às 19h do dia anterior.
