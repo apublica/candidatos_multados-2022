@@ -13,4 +13,4 @@
 * Critérios de inclusão: Todas as candidaturas registradas até a última atualização da base exportada.
 
 ### Cruzamento
-* A partir das colunas de CPF, fizemos o cruzamento dos dados. 445 multas foram associadas à 254 CPFs de candidatos. A lista completa de [multas](https://github.com/apublica/candidatos_multados-2022/blob/main/multas.csv) e [candidatos](https://github.com/apublica/candidatos_multados-2022/blob/main/candidatos_multados.csv).
+* A partir das colunas de CPF, fizemos o cruzamento dos dados. 440 multas foram associadas à 251 CPFs de candidatos. A lista completa de [multas](https://github.com/apublica/candidatos_multados-2022/blob/main/multas.csv) e [candidatos](https://github.com/apublica/candidatos_multados-2022/blob/main/candidatos_multados.csv).
